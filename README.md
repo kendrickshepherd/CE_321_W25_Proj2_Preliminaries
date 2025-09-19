@@ -12,7 +12,7 @@ You may want to create this account using your BYU e-mail address, though that i
 
 After creating an account, navigate back to this repository. Then, near the top right of the webpage, click the button "**Use this template**" and select "Create new repository."
 (If you do not see the "Use this template" button, try logging into your GitHub account before navigating to this repository.)
-After selecting "Create new repository," you will then be asked to give the repository a name (e.g. CE_321_W25_Proj2_Preliminaries)
+After selecting "Create new repository," you will then be asked to give the repository a name (e.g. CE_321_F25_Proj2_Preliminaries)
 You will also be asked whether to make your repository public or private. **Make your repository private.** If you accidentally make it public, you will need to start over with a private repository.
 **Also, if you fork this repository (rather than duplicating it), it may cause problems that result your repository being deleted. DO NOT FORK THE REPOSITORY!**
 
